@@ -35,7 +35,7 @@
     <script>
         // Function to play "Never Gonna Give You Up" song
         function playRickroll() {
-            window.location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
+            window.location.href = 'https://www.youtube.com/watch?v=uHgt8giw1LY';
         }
 
         // Add click event listener to the button
